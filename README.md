@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Pooja Gogoi
 
+#### About Me 
+
+I’m a data analytics enthusiast with a strong interest in turning raw information into meaningful insights. I enjoy working with Python and SQL to analyze patterns, test ideas, and support data-driven decisions. I’m continuously improving my analytical skills by building real-world projects, learning new techniques, and exploring ways to make data more understandable and useful.
+
+
+- 🌱 I’m currently learning Natural Language Processing(NLP)
+- 📫 How to reach me: poojagogoi175@gmail.com
+- ⚡ Fun fact: Curiosity is my default operating system.
 <!--
 **gogoi17/gogoi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
